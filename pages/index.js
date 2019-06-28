@@ -7,7 +7,7 @@ const Index = () => (
     <Link href="/about" >
       <button> Go to About Page </button>
     </Link>
-    <p>Hello Next.js</p>
+    <p>I love you Maya Weissman. - Karl</p>
   </div>
 );
 
