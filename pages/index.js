@@ -14,6 +14,7 @@ const Index = () => (
     <ul >
       <a target="_blank" href="https://itnext.io/building-a-dynamic-controlled-form-in-react-together-794a44ee552c">Dynamic React (Cats)</a><br/>
       <a target="_blank" href="https://blog.logrocket.com/the-best-styling-in-react-tutorial-youve-ever-seen-676f1284b945/">React Styling</a>
+      <a target="_blank" href="https://octoprint.org/blog/2018/09/03/safe-remote-access/">OctoPrint Anywhere</a>
     </ul>
   </div>
 );
